@@ -1,0 +1,43 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #221d1d;
+}
+
+#chart_div {
+    margin-left: 5%;
+    margin-right: 0;
+    background-color:#221d1d;
+    color:black;
+    text-align:center;
+    width:25%;
+    float: left;
+    block-size: auto;
+}
+#chart2_div {
+    background-color:#221d1d;
+    color:black;
+    width:25%;
+    float: left;
+    margin-left: -5%;
+}
+
+#myMap {
+    position: absolute;
+    left:56%;
+    width: 40%;
+    height: 90%;
+    top:50px;
+}
+
+#myCanvas {
+    background-color:#221d1d;
+    width: 50%;
+    top: 50%;
+   
+}
